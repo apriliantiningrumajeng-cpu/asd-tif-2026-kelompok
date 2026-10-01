@@ -1,5 +1,5 @@
 # Proyek 1 ASD
-Kelas : 
-1. Nama Mhs 1, NIM Mhs 1
-2. Nama Mhs 2, NIM Mhs 2
-2. Nama Mhs 3, NIM Mhs 3
+Kelas : TIF - C
+1. Ajeng Aprilianti Ningrum, 255150201111024
+2. Ulfa Aulia Sakina, 245150207111058
+2. Aulia Putri Dewi Parawansa, 245150207111097
